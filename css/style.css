@@ -1,0 +1,58 @@
+body {
+background-color: #2A529C;
+}
+
+.white {
+background-color: #FFF;
+}
+
+.text-center {
+text-align: center;
+}
+
+.text-left {
+text-align: left;
+}
+
+.date-input {
+height: 38px;
+padding: 6px 10px;
+background-color: #fff;
+border: 1px solid #D1D1D1;
+border-radius: 4px;
+box-shadow: none;
+box-sizing: border-box;
+}
+
+.min-height {
+min-height: 150px;
+}
+
+.as-seen {
+color: #B75057;
+font-weight: 600;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #81748C;
+}
+
+.gold {
+color: gold;
+}
+
+#map {
+width: 100%;
+height: 400px;
+background-color: grey;
+}
+
+th, td {
+text-align: center;
+}
+
+img {
+border: 1px solid #FFF;
+}
+
+.border-right {
+border-right: 1px solid #000;    
+}
